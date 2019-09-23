@@ -1,0 +1,206 @@
+.top
+{
+    background-color: #1abc9c !important;
+}
+
+.vector
+{
+    width: 18%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.start
+{
+    text-align: center;
+    color: white;
+    font-family: Arial black;
+    font-size: 350% !important;
+    margin-top: 5%;
+}
+
+.f
+{
+    color: white;
+    font-size: 300%;
+    
+}
+
+hr
+{
+    width: 10% !important;
+    background: white;
+    display: inline-block;
+    height: 3px !important;
+    
+}
+
+.h
+{
+    width: 10%!important;
+    background: #2c3e50;
+    display: inline-block;
+    height: 3px !important;
+}
+
+.s
+{
+    color: white;
+    text-align: center;
+    font-size: 180%;
+    margin-bottom: 5% !important;
+}
+
+#mainNav
+{
+    background: #2c3e50 !important;
+}
+
+.nav-link
+{
+    color: white !important;
+    font-family: arial black;
+}
+
+.nav-link:hover
+{
+    color: #1abc9c !important;
+}
+
+.navbar-brand
+{
+    color: white !important;
+    font-family: arial black;
+}
+
+#portfolio
+{
+    color: #2c3e50;
+    text-align: center;
+    font-family: arial black;
+}
+
+.st
+{
+    color: #2c3e50;
+    font-size: 300% !important;
+}
+
+.card
+{
+    margin-bottom: 10% !important;
+}
+
+#about
+{
+    text-align: center;
+    color: white;
+    font-family: Arial black;
+    font-size: 380% !important;
+    margin-top: 3%;
+}
+
+.par
+{
+    text-align: center;
+    color: white;
+    margin-left: 50%;
+}
+
+.bt
+{
+    margin-left: 30% !important;
+    background: inherit !important;
+    padding: 1% !important;
+    width: 40% ;
+    color: white !important;
+    font-size: 150% !important;
+    margin-bottom: 2% !important;
+}
+
+#contact
+{
+    color: #2c3e50;
+    text-align: center;
+    font-family: arial black;
+}
+
+input
+{
+    border-style: hidden;
+}
+
+textarea
+{
+    border-style: hidden;
+}
+
+.su
+{
+    margin-left: 20% !important;
+    width: 20%;
+    height: 10%;
+    font-size: 120% !important;
+    background: #1abc9c !important;
+    border-radius: 10% !important;
+    margin-bottom: 10% !important;
+}
+
+.info
+{
+    background: #2c3e50;
+    width: 100%;
+}
+
+h4
+{
+    text-align: center;
+    color: white !important;
+    margin-left: 30% !important;
+    margin-top: 10% !important;
+    
+    font-family: arial black;
+}
+
+.x
+{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-left: 30%;
+    
+}
+
+.y
+{
+    color: white !important;
+    margin-left: 10% !important;
+}
+
+.fb
+{
+    color: white !important;
+    margin-left: 30%;
+}
+
+.hlink
+{
+    color: #1abc9c !important;
+}
+
+.end
+{
+    background: #1a252f;
+    padding: 0.3%;
+}
+
+.en
+{
+    text-align: center;
+    color: white;
+}
+
+.l
+{
+    margin-left: 5%;
+}

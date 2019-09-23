@@ -1,0 +1,253 @@
+.im
+{
+    background-image: url(../Images/hero_bg_1.jpg);
+    background-size: cover;
+}
+
+.navbar
+{
+    background: inherit;
+}
+
+ul
+{
+    margin-left: 60%;
+    font-family: comic sans MS;
+    font-size: 120%;
+    
+}
+
+.dj
+{
+    margin-left: 10%;
+    font-family: comic sans MS;
+    font-weight: bold;
+    font-size: 170% !important;
+}
+
+.dot
+{
+    color: #ff069e;
+    font-family: comic sans MS;
+    font-size: 25px;
+}
+
+.about
+{
+    text-align: center;
+    color: white ;
+    font-weight: bold;
+    font-size: 270% !important;
+    font-family: arial black;
+    margin-top: 20%;
+}
+
+.head
+{
+    margin-bottom: 4%;
+}
+
+.ab
+{
+    text-align: center;
+    color: white;
+    font-family: arial black;
+    font-size: 120%;
+}
+
+.bg
+{
+    background: #222831;
+    margin-top: -4%;
+}
+
+.h2
+{
+    margin-top: 15%;
+    color: #ffffff !important;
+    font-family: arial black;
+}
+
+.par
+{
+    color: #6a6d74;
+    font-size: 120%;
+}
+
+.par1
+{
+    color: #6a6d74;
+    font-size: 120%;
+    margin-right: -1%;
+}
+
+.hr1
+{
+    background: #e3207b;
+    width: 20%;
+    height: 2px !important;
+    margin-left: -1.6%;
+}
+
+.img_2
+{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-bottom: 30%;
+}
+
+.h3
+{
+    text-align: center;
+    color: white !important;
+    font-family: arial black;
+}
+
+.hr2
+{
+    background: #e3207b;
+    width: 5%;
+    height: 2px !important;
+}
+
+.second-par
+{
+    text-align: center;
+    color: #6a6d74;
+    font-size: 130%;
+}
+
+.c
+{
+    margin-bottom: 10%;
+    border-style: hidden;
+}
+
+.marq
+{
+    background: #e3207b;
+    height: 200%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding-bottom: 1%;
+}
+
+.f
+{
+    margin-left: 10%;
+}
+
+i
+{
+    background: #e3207b;
+    color: white;
+    margin-top: 2%;
+    font-size: 130%;
+    margin-left: 160px;
+}
+
+.h4_1
+{
+    color: white;
+    font-family: comic sans MS;
+}
+
+.h4_n
+{
+    color: white;
+    font-family: comic sans MS;
+    padding-left: 30%;
+}
+
+.u
+{
+    list-style-type: none;
+    margin-left: 10%;
+    display: inline-block;
+    text-align: left;
+}
+
+.hr1_n
+{
+    background: #e3207b;
+    width: 20%;
+    height: 0.2% !important;
+    margin-left: 30%;
+}
+
+a1:active
+{
+    background: #e3207b !important;
+}
+
+a1:hover
+{
+    color: white !important;
+}
+
+.a1
+{
+    color: #6a6d74 !important;
+    font-size: 100% !important;
+    font-family: arial;
+}
+
+.ima
+{
+    margin-bottom: -100% ;
+}
+
+.pc
+{
+    border-radius: 50%;
+    font-size: 400%;
+    margin-bottom: 100%;
+}
+
+.btn
+{
+    background: #e3207b !important;
+    border-color: #e3207b !important; 
+    margin-bottom: 1.5%;
+    margin-left: -1.2%;
+    border-radius: 0% !important;  
+}
+
+input
+{
+    height: 38px;
+    border-color: #fff !important; 
+    width: 70%;
+}
+
+.f
+{
+    background: inherit;
+}
+
+.h
+{
+    color: red;
+    background: inherit;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    font-size: 100%;
+}
+
+.p
+{
+    color: #6a6d74;
+    text-align: center;
+}
+
+.end
+{
+    padding-bottom: 1%;
+    width: 100%;
+}
+
+.drop
+{
+    background: inherit;
+    color: #000;
+}

@@ -1,0 +1,462 @@
+body
+{
+    background-image: url("../../../class.jpg");
+    background-size: cover; 
+}
+
+/*style links in website*/
+a
+{
+    color: #fff !important;
+    text-decoration-line: none !important;
+}
+
+/* style the login div */
+.login
+{
+    background: rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-top: 8%;
+    border: 2px solid #fff;
+    border-radius: 1%;   
+}
+
+/*LogIn Word*/
+h1
+{
+    text-align: center;
+    font-size: 300% !important;
+}
+
+/*style username and password*/
+.info
+{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+/*style the username*/
+.user
+{
+    font-size: 150%;
+    font-family: Hobo std;
+    color: rgb(255, 158, 67); 
+}
+
+/*style password*/
+.pass
+{
+    margin-top: 8%;
+    font-size: 150%;
+    font-family: Hobo std;
+    color: rgb(255, 158, 67);
+}
+
+/*style input of username and password*/
+.input
+{
+    border-radius: 10px;
+    width: 90%; 
+    font-family: comic sans MS !important;
+}
+
+/*style the login button*/
+button
+{
+    margin-top: 10% !important;
+    margin-bottom: 7% !important;
+    width: 90%;
+    border-radius: 20px !important; 
+    cursor: pointer;
+    background: #28a745;
+    border: #28a745;
+    color: #fff;
+    padding: 1% !important;
+    font-size: 100%;
+    transition: 0.2s;
+}
+
+button:hover
+{
+    background: #218838;
+    border: #218838;
+}
+
+/*style the copy div*/
+.copy
+{
+    background: #333;
+    color: #23d829;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+/*style the dashboard div*/
+.menu
+{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 8%;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+
+/*style two avatares*/
+.av1
+{
+    margin-left: -15% !important;
+    width: 110%;
+}
+
+.av2
+{
+    margin-left: 3% !important;
+    width: 110%;
+}
+
+/*style the div buttons in dashboard*/
+.student
+{
+    margin-top: 15%;
+    text-align: center;
+    font-size: 190%;
+    background: #23d829;
+    height: auto;
+    width: auto;
+    margin-left: -10% !important;
+    padding-top: 2%;
+    border-radius: 10px;
+    cursor: pointer; 
+    transition: 0.2s;
+    margin-bottom: 5%;
+    padding: 0% 0% 1.3% 0%;
+}
+
+.student:hover
+{
+    background: #1eb323;
+}
+
+/*style search fontowesome*/
+.s
+{
+    padding-right: 1%;
+    color: rgb(255, 255, 255);
+    font-size: 100%;
+}
+
+/*style insert fontawesome*/
+.i
+{
+    padding-right: 1%;
+}
+
+/*style edit fontawesome*/
+.e
+{
+    padding-right: 1%;
+}
+
+/*style the search div*/
+.menu2
+{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 70%;
+    height: 600px;
+    margin-left: 10%;
+    margin-top: 5%;
+    border: 2px solid;
+    border-radius: 10px;
+    overflow-y: auto;
+    
+}
+
+/*style selection of search*/
+.sel
+{
+    margin-top: 3% !important;
+    margin-left: 10% !important;
+}
+
+/*style the input of search and students name in search*/
+.sr
+{
+    margin-left: 70%;
+    margin-top: -3%;
+}
+
+/*style li in search*/
+ul li 
+{
+    width: 30%;
+    cursor: pointer;
+    position: relative;
+    padding: 1.3% 1% 1.3% 3%;
+    background: #fff;
+    color: #000;
+    font-size: 100%;
+    font-family: comic sans MS;
+    transition: 0.2s;
+    list-style: none;
+    margin-top: 5%;
+    margin-left: -2%;
+    /* make the list items unselectable */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+  /* Darker background-color on hover */
+ul li:hover 
+{
+    background: #ddd;
+}
+
+/*style id students in search*/
+.id
+{
+    margin-left: 5%;
+}
+
+/*style the student name in search*/
+.st
+{
+    background: inherit;
+    color: #fff;
+    width: 128%;
+    margin-left: -50% !important;
+}
+
+.st:hover
+{
+    background: inherit;
+}
+
+/*style the insert div*/
+.menu3
+{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 70%;
+    height: auto;
+    border: 2px solid;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-top: 5%;
+    overflow-y: auto;
+}
+
+/*style the birthday , name and ID in insert*/
+.l
+{
+    border-radius: 10px;
+    width: 20%; 
+    font-family: comic sans MS !important;
+}
+
+/*style the birthday and GPA labels*/
+.la
+{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+/*style student ID label*/
+.lo
+{
+    margin-left: 30%;
+    margin-top: 3%; 
+}
+
+/*style the course label*/
+.cor
+{
+    margin-left: 5%;
+}
+
+/*style the course div*/
+.course
+{
+    background: rgb(255, 255, 255);
+    color: white;
+    width: 30%;
+    height: 250px;
+    border: 2px solid;
+    border-radius: 10px;
+    margin-left: 11%;
+    margin-top: -3%;
+    overflow-y: auto
+}
+
+/*style add button*/
+.addBtn 
+{
+    width: 20% !important;
+    height: 30px !important;
+    margin-left: -2%;
+    border-radius: 0px !important; 
+    background: #23d829;
+    color: #fff;
+    text-align: center;
+    font-size: 100%;
+    font-family: comic sans MS;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+}
+  
+.addBtn:hover 
+{
+    background-color: #1eb323;
+}
+
+/*style the add course div*/
+.in
+{
+    margin-top: -5%;
+    margin-left: 5%;
+}
+
+/*style the input of adding course*/
+.inp
+{
+    width: 60%;
+}
+
+/*style li of insert course*/
+#myUL li 
+{
+    width: 80%;
+    margin-top: 0%;
+    margin-left: -8%;
+    cursor: pointer;
+    position: relative;
+    padding: 1.3% 1% 1.3% 3%;
+    background: rgb(209, 209, 209);
+    color: #000;
+    font-size: 100%;
+    font-family: comic sans MS;
+    transition: 0.2s;
+    list-style: none;
+    /* make the list items unselectable */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#myUL li:hover
+{
+    background: rgb(141, 141, 141) !important;
+}
+
+/*style save changes button*/
+.save 
+{
+    width: 15% !important;
+    margin-top: 5% !important;
+    float: right;
+    margin-right: 5%;
+    margin-bottom: 3% !important;
+}
+
+/*style the edit div*/
+.menu4
+{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 80%;
+    height: 500px;
+    margin-left: 10%;
+    margin-top: 10%;
+    border: 2px solid;
+    border-radius: 10px;
+    overflow-y: auto; 
+}
+
+/*style the search by name editing div*/
+.tn
+{
+    margin-left: 5%;
+    margin-top: 5%; 
+    width: 20%;
+}
+
+/*style the search by id for editing*/
+.tna
+{
+    margin-left: 20%;
+}
+
+/*style search and edit changes button*/
+.btn
+{
+    background: rgb(194, 194, 194) !important;
+    color: #000;
+    height: auto;
+    margin-left: 5% !important;
+    margin-top: -5px;
+    padding: 1px !important;
+    width: 10% !important;
+    cursor: pointer;
+    transition: 0.2s;
+    border-radius: 5px !important; 
+}
+
+.btn:hover
+{
+    background: rgb(136, 136, 136) !important; 
+}
+
+/*style the li of editing div*/
+.ed
+{
+    background: inherit;
+    color: #fff;
+    width: 50%;
+    margin-left: 0.1% !important;
+}
+
+.ed:hover
+{
+    background: inherit;
+}
+
+/*style the string Edits saved*/
+.p
+{
+    color: #fff;
+    font-family: comic sans MS;
+    margin-left: 20%;
+}
+
+/*style save changes button*/
+.btn-2
+{
+    background: rgb(194, 194, 194) !important;
+    color: #000;
+    height: auto;
+    padding: 0.5% !important;
+    width: 15%;
+    cursor: pointer;
+    transition: 0.2s;
+    border-radius: 5px !important;
+    float: right;
+    margin-right: 2%;
+    margin-bottom: 2% !important;
+}
+
+.btn-2:hover
+{
+    background: rgb(136, 136, 136) !important; 
+}

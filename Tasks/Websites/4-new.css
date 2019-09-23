@@ -1,0 +1,95 @@
+.d
+{
+    background-image: url(../Images/header-bg.jpg);
+    background-size: cover;
+}
+
+nav
+{
+    background: inherit;
+}
+
+.b
+{
+    text-align: center;
+    color: white;
+    font-size: 500%;
+    font-family: Arial Black ;
+}
+
+.x
+{
+    text-align: center;
+    color: white;
+    font-size: 250%;
+    margin-top: 20%;
+    font-family: Arial Black;
+}
+
+.y
+{
+    margin-left: 42%;
+    color: white !important;
+    font-size: 180% !important;
+    font-family: comic sans MS !important;
+    margin-bottom: 2%;
+    transition: 0.3s;
+}
+
+.y:hover 
+{
+    background: #e0b802 !important;
+}
+
+ul
+{
+    margin-left: 70%;
+}
+
+.t
+{
+    text-align: center;
+    font-size: 250%;
+    color: black;
+    font-family: Arial black;
+}
+
+.n
+{
+    text-align: center;
+    font-size: 100%;
+}
+
+p
+{
+    text-align: center;
+}
+
+h3
+{
+    text-align: center;
+    margin-bottom: 10% !important;
+}
+
+i
+{
+    margin-left: 30%;
+    background: #e5d307;
+    border-radius: 50%;
+    padding: 5%;
+    font-size: 500%;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+i:hover
+{
+    background: #b3a404;
+}
+
+.s
+{
+    margin-left: 10% !important; 
+}
+

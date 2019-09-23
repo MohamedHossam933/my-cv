@@ -1,0 +1,133 @@
+.im
+{
+    background-image: url(../Images/light_bulb.jpg);
+    background-size: cover; 
+}
+
+ul
+{
+    margin-left: 59%;
+}
+
+.h
+{
+    color: white;
+    font-size: 400% !important;
+    margin-top: 5%;
+    margin-right: 30%;
+}
+
+.p
+{
+    color: white;
+    font-size: 120%;
+    margin-right: 30%;
+}
+
+.b
+{
+    background-color: #ffa500;
+    margin-left: -1% !important;
+    margin-bottom: 8% !important;
+}
+
+h1
+{
+    text-align: center;
+    color: #ffc97c;
+}
+
+p
+{
+    text-align: center;
+    font-size: 110%;
+}
+
+h2
+{
+    margin-top: -37% !important;
+    text-align: center;
+    color: #fff !important; 
+}
+
+.price
+{
+    color: #ffa47c;
+}
+
+s
+{
+    color: black;
+    margin-right: 10%;
+}
+
+.rc
+{
+    margin-left: 10% !important;
+}
+
+.c
+{
+    margin-right: -10% !important;
+}
+
+.img
+{
+    border-radius: 50%;
+    margin-left: 25%;
+}
+
+.bg
+{
+    background: #EEE;
+}
+
+.links
+{
+    text-align: center;
+}
+
+.a
+{
+    color: orangered !important;
+}
+
+.btn
+{
+    color: white !important;
+    margin-left: 14%;
+}
+
+.bn
+{
+    margin-left: 14% !important;
+}
+
+.nb
+{
+    color: #ef6528 !important;
+}
+
+.price
+{
+    text-align: left;
+}
+
+.co
+{
+    margin-top: 10% !important;
+}
+
+.bt
+{
+    margin-left: -1.5% !important;
+    height: 14% !important;
+    margin-bottom: 1.5% !important;
+    border-radius: 0% !important; 
+    padding-bottom: 10% !important;
+}
+
+.r
+{
+    margin-right: 0% !important;
+}
