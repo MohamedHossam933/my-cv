@@ -1,4 +1,10 @@
-/*tsyle the calculator body*/
+/*style the body*/
+body
+{
+    background-image: radial-gradient(circle, #fff, #0e899b) !important;
+}
+
+/*style the calculator body*/
 .calc
 {
     background: #1e1e1e;
